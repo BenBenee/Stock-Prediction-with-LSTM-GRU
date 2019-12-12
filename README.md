@@ -15,7 +15,7 @@ run main.py and adjust your csv file path name
 
 |Metrics| LSTM   | GRU   |
 | ----- | :------: | :------:|
-| MAE	| 0.0067 | 0.0045|
+| MSE	| 0.0067 | 0.0045|
 
 ## Requirements
 Keras  
