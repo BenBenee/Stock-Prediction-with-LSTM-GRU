@@ -1,9 +1,9 @@
 # Stock Prediction with LSTM GRU
 
 ## Stock Prediction
-Predicting stock close price of a company using LSTM and GRU neural network
+Predicting stock close price of a company using LSTM and GRU.
 
-I use unilever stock price in Indonesia for this one, you can use another stock price you like
+I use unilever stock price in Indonesia for this one, you can use another stock price you like.
 
 Here is the final result: (Perfomence could be improved by modifying the neural netowk and adjusting the parameters)
 ![alt text](https://github.com/BenBenee/Stock-Prediction-with-LSTM-GRU/blob/master/model/FigurePredicted.png)
