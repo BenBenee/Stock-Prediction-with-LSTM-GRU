@@ -12,8 +12,9 @@ Here is the final result: (Perfomence could be improved by modifying the neural 
 run main.py and adjust your csv file path name
 
 ##Results
+
 |Metrics| LSTM   | GRU   |
-| ----- | ------ | ------|
+| ----- | :------: | :------:|
 | MAE	| 0.0067 | 0.0045|
 
 ## Requirements
